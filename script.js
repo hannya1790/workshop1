@@ -19,4 +19,10 @@ else{
     console.log(false)
 }
 
-let
+switch ("mariam") { 
+    case "mariam" : 
+      console.log(true); 
+        break; 
+    default: 
+      console.log(false)
+}
